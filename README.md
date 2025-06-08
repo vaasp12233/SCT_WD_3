@@ -1,4 +1,4 @@
-
+ii
 # 🌐 Skillcraft – Internship Web Project
 
 Welcome to Skillcraft,
@@ -31,7 +31,7 @@ It’s an ideal showcase of frontend development skills — all built into a sin
 
    bash
    git clone https://github.com/vaasp12233/SCT_WD_1.git
-   cd SCT_WD_1
+   cd SCT_WD_3
    
 
 2. **Open index.html in your browser**
